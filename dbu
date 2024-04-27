@@ -1,4 +1,3 @@
-
 getgenv().Stats = {-- Name, Rebcap, Statcap, Play Solo ONLY?
     {"retro_patata", math.huge, math.huge, false}, 
     {"retro_patata", math.huge, math.huge, false},
